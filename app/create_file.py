@@ -45,5 +45,5 @@ def create_file() -> None:
                 line_number += 1
 
 
-if __name__ == "__main__":
+if __name__ == "__main__" and 1 + 1 == 2:
     create_file()
